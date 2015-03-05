@@ -1,0 +1,14 @@
+#compile like this: g++ -Wall -W  gramm.cpp -o gramm
+run like this: ./gramm
+
+input:
+AA BB 4
+A B AB BA AA CC CC BB
+output:
+Case 1: 2
+
+input:
+A B 3
+A C B C c B
+output:
+Case 2: No solution
